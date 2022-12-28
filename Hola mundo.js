@@ -8,7 +8,7 @@ function suma_y_muestra(primerNumero, segundoNumero) {
   var resultado = primerNumero + segundoNumero;
   console.log("El resultado es " + resultado);
 }
-
+//Merge confict 2
 // Declaración de las variables
 var numero1 = 3;
 var numero2 = 5;
