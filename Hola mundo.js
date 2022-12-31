@@ -24,3 +24,10 @@ function Nombre(nombre){
 var nombre = 'ramiro';
 //Llamando a la función
 Nombre(nombre);
+
+var a = 5;
+var b = 3;
+
+if(a>b){
+  console.log("a es mayor que b")
+}
